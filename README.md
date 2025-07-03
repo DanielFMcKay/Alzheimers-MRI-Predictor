@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/License-GNU_GPL_v3.0-slateblue.svg)
 
-![image](https://github.com/user-attachments/assets/3df6b572-9293-45d5-b1af-bd1c44d996e9)
+![image](https://github.com/user-attachments/assets/d7817a0a-6cde-4151-8b1c-2e16bd672a14)
 
 ## Overview
 
