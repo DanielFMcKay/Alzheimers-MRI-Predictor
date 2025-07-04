@@ -24,9 +24,9 @@ This is a portfolio project that I created in June and July of 2025 with the ide
 
 ## Required Dependencies/Imports
 Note: a few might not be
-* Panda
-* Numpy
-* Tensorflow
+* panda
+* numpy
+* tensorflow
 * scikit-learn
 * scikit-image
 * io
