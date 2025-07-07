@@ -23,7 +23,6 @@ This is a portfolio project that I created in June and July of 2025 with the ide
 * Images larger than 128 x 128 will be resized. Images smaller than that will be rejected
 
 ## Required Dependencies/Imports
-Note: a few might not be
 * panda
 * numpy
 * tensorflow
